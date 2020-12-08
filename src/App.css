@@ -11,11 +11,8 @@ html {
 }
 
 body {
+	color: #fff !important;
+	font-family: "Alef", sans-serif;
 	background-color: transparent !important;
 	height: 100%;
-}
-
-.App {
-	color: white;
-	font-family: "Alef", sans-serif;
 }
