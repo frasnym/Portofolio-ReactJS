@@ -80,6 +80,18 @@ export default function HomePage() {
 						>
 							Career
 						</NavLink>
+						<NavLink
+							to="/education"
+							className="btn btn-outline-secondary btn-lg"
+						>
+							Education
+						</NavLink>
+						<NavLink
+							to="/others"
+							className="btn btn-outline-secondary btn-lg"
+						>
+							Other Skill
+						</NavLink>
 					</Col>
 				</Row>
 			</Container>

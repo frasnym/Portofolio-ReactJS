@@ -71,7 +71,7 @@ export default function PotencyPage() {
 					<Col md={6} className="content pt-3">
 						<Card
 							bgcolor="dark"
-							header="Others"
+							header="Other"
 							content={
 								<ul>
 									<li>
