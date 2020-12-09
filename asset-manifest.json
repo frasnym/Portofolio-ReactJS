@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portofolio-ReactJS/static/css/main.6b118d72.chunk.css",
-    "main.js": "/Portofolio-ReactJS/static/js/main.6bc1c35c.chunk.js",
-    "main.js.map": "/Portofolio-ReactJS/static/js/main.6bc1c35c.chunk.js.map",
-    "runtime-main.js": "/Portofolio-ReactJS/static/js/runtime-main.6ba84491.js",
-    "runtime-main.js.map": "/Portofolio-ReactJS/static/js/runtime-main.6ba84491.js.map",
-    "static/js/2.45b3976f.chunk.js": "/Portofolio-ReactJS/static/js/2.45b3976f.chunk.js",
-    "static/js/2.45b3976f.chunk.js.map": "/Portofolio-ReactJS/static/js/2.45b3976f.chunk.js.map",
-    "static/js/3.41b8437c.chunk.js": "/Portofolio-ReactJS/static/js/3.41b8437c.chunk.js",
-    "static/js/3.41b8437c.chunk.js.map": "/Portofolio-ReactJS/static/js/3.41b8437c.chunk.js.map",
-    "index.html": "/Portofolio-ReactJS/index.html",
-    "static/css/main.6b118d72.chunk.css.map": "/Portofolio-ReactJS/static/css/main.6b118d72.chunk.css.map",
-    "static/js/2.45b3976f.chunk.js.LICENSE.txt": "/Portofolio-ReactJS/static/js/2.45b3976f.chunk.js.LICENSE.txt",
-    "static/media/avatar.b9062045.jpg": "/Portofolio-ReactJS/static/media/avatar.b9062045.jpg",
-    "static/media/App.css": "/Portofolio-ReactJS/static/media/background.4a8939c0.jpg"
+    "main.css": "/static/css/main.c3f98ac2.chunk.css",
+    "main.js": "/static/js/main.6bc1c35c.chunk.js",
+    "main.js.map": "/static/js/main.6bc1c35c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3bc8a994.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3bc8a994.js.map",
+    "static/js/2.45b3976f.chunk.js": "/static/js/2.45b3976f.chunk.js",
+    "static/js/2.45b3976f.chunk.js.map": "/static/js/2.45b3976f.chunk.js.map",
+    "static/js/3.41b8437c.chunk.js": "/static/js/3.41b8437c.chunk.js",
+    "static/js/3.41b8437c.chunk.js.map": "/static/js/3.41b8437c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c3f98ac2.chunk.css.map": "/static/css/main.c3f98ac2.chunk.css.map",
+    "static/js/2.45b3976f.chunk.js.LICENSE.txt": "/static/js/2.45b3976f.chunk.js.LICENSE.txt",
+    "static/media/avatar.b9062045.jpg": "/static/media/avatar.b9062045.jpg",
+    "static/media/App.css": "/static/media/background.4a8939c0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ba84491.js",
+    "static/js/runtime-main.3bc8a994.js",
     "static/js/2.45b3976f.chunk.js",
-    "static/css/main.6b118d72.chunk.css",
+    "static/css/main.c3f98ac2.chunk.css",
     "static/js/main.6bc1c35c.chunk.js"
   ]
 }
