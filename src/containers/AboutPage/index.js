@@ -10,7 +10,7 @@ export default function AboutPage() {
 			<Container>
 				<Row>
 					<Col md={12} className="pt-5">
-						<PageTitle />
+						<PageTitle title="About Me" />
 					</Col>
 					<Col md={8} className="content">
 						<p>

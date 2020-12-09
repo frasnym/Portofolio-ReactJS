@@ -24,3 +24,7 @@ h1 {
 .content a {
 	margin-right: 25px;
 }
+
+.page__nav a {
+	margin-right: 20px;
+}

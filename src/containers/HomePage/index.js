@@ -61,12 +61,18 @@ export default function HomePage() {
 							icon={<FaRegEnvelope className="icon" />}
 						/>
 					</Col>
-					<Col md={12} className="pt-5">
+					<Col md={12} className="pt-5 page__nav">
 						<NavLink
 							to="/about"
 							className="btn btn-outline-secondary btn-lg"
 						>
 							About Me
+						</NavLink>
+						<NavLink
+							to="/potency"
+							className="btn btn-outline-secondary btn-lg"
+						>
+							Potency
 						</NavLink>
 					</Col>
 				</Row>
