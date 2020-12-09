@@ -74,6 +74,12 @@ export default function HomePage() {
 						>
 							Potency
 						</NavLink>
+						<NavLink
+							to="/career"
+							className="btn btn-outline-secondary btn-lg"
+						>
+							Career
+						</NavLink>
 					</Col>
 				</Row>
 			</Container>
