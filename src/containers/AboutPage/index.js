@@ -1,9 +1,8 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import { FaArrowLeft } from "react-icons/fa";
-import { NavLink } from "react-router-dom";
 
 import Layout from "../../components/Layout";
+import PageTitle from "../../components/PageTitle";
 
 export default function AboutPage() {
 	return (
@@ -11,14 +10,7 @@ export default function AboutPage() {
 			<Container>
 				<Row>
 					<Col md={12} className="pt-5">
-						<h2>
-							<span className="content-icon pe-4">
-								<NavLink to="/" exact>
-									<FaArrowLeft className="icon" />
-								</NavLink>
-							</span>
-							<span>About me</span>
-						</h2>
+						<PageTitle />
 					</Col>
 					<Col md={8} className="content">
 						<p>
