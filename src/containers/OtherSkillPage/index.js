@@ -13,7 +13,11 @@ export default function OtherSkillPage() {
 						<PageTitle title="Others Skill" />
 					</Col>
 					<Col md={12} className="content pt-3">
-						<p>Coming Soon</p>
+						<h2>Language skill</h2>
+						<ul>
+							<li>Indonesia (Bahasa) - native speaker</li>
+							<li>English - written and oral</li>
+						</ul>
 					</Col>
 				</Row>
 			</Container>
