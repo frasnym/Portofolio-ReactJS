@@ -18,8 +18,8 @@ export default function AboutPage() {
 							programming and enjoy developing new things.
 						</p>
 						<p>
-							Currently, I am looking for a Backend Developer
-							role.
+							Currently, I am looking for a Backend Developer role
+							(on-site or remote).
 						</p>
 					</Col>
 				</Row>

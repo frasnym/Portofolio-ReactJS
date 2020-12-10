@@ -13,7 +13,16 @@ export default function EducationPage() {
 						<PageTitle title="Educational History" />
 					</Col>
 					<Col md={12} className="content pt-3">
-						<p>Coming Soon</p>
+						<h2>
+							Institute Of Business And Informatics Stikom
+							Surabaya
+						</h2>
+						<i>Years Period: 2011 - 2016</i>
+						<br />
+						<i>
+							Bachelor degree Information Systems Department with{" "}
+							<b>GPA 3.57</b>
+						</i>
 					</Col>
 				</Row>
 			</Container>
