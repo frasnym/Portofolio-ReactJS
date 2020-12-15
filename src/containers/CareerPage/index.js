@@ -47,7 +47,7 @@ export default function CareerPage() {
 										customer transaction
 									</li>
 									<li>
-										Creating API services that support
+										Creating API services that support{" "}
 										<b>multi-language</b>
 									</li>
 									<li>

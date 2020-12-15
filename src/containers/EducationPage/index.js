@@ -20,7 +20,8 @@ export default function EducationPage() {
 						<i>Years Period: 2011 - 2016</i>
 						<br />
 						<i>
-							Bachelor degree Information Systems Department with{" "}
+							Bachelor degree{" "}
+							<b>Information Systems Department</b> with{" "}
 							<b>GPA 3.57</b>
 						</i>
 					</Col>

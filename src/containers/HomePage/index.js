@@ -64,31 +64,31 @@ export default function HomePage() {
 					<Col md={12} className="pt-5 page__nav">
 						<NavLink
 							to="/about"
-							className="btn btn-outline-secondary btn-lg"
+							className="btn btn-outline-secondary btn-lg mt-3"
 						>
 							About Me
 						</NavLink>
 						<NavLink
 							to="/potency"
-							className="btn btn-outline-secondary btn-lg"
+							className="btn btn-outline-secondary btn-lg mt-3"
 						>
 							Potency
 						</NavLink>
 						<NavLink
 							to="/career"
-							className="btn btn-outline-secondary btn-lg"
+							className="btn btn-outline-secondary btn-lg mt-3"
 						>
 							Career
 						</NavLink>
 						<NavLink
 							to="/education"
-							className="btn btn-outline-secondary btn-lg"
+							className="btn btn-outline-secondary btn-lg mt-3"
 						>
 							Education
 						</NavLink>
 						<NavLink
 							to="/others"
-							className="btn btn-outline-secondary btn-lg"
+							className="btn btn-outline-secondary btn-lg mt-3"
 						>
 							Other Skill
 						</NavLink>

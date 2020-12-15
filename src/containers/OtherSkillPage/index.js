@@ -16,7 +16,7 @@ export default function OtherSkillPage() {
 						<h2>Language skill</h2>
 						<ul>
 							<li>Indonesia (Bahasa) - native speaker</li>
-							<li>English - written and oral</li>
+							<li>English - basic communication skill</li>
 						</ul>
 					</Col>
 				</Row>
