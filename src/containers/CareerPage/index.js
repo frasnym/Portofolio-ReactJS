@@ -85,13 +85,27 @@ export default function CareerPage() {
 							content={
 								<ul>
 									<li>
-										<b>Catering</b> application
+										<b>Catering</b> application:{" "}
+										<a
+											href="https://play.google.com/store/apps/details?id=com.frasnym.catering_app"
+											target="_blank"
+											rel="noreferrer"
+										>
+											Application URL
+										</a>
 									</li>
 									<li>
 										<b>Instagram</b> re-design application
 									</li>
 									<li>
-										<b>Properly marketing</b> application
+										<b>Properly marketing</b> application:{" "}
+										<a
+											href="https://play.google.com/store/apps/details?id=com.frasnym.gensela_properti"
+											target="_blank"
+											rel="noreferrer"
+										>
+											Application URL
+										</a>
 									</li>
 								</ul>
 							}
@@ -105,24 +119,28 @@ export default function CareerPage() {
 							content={
 								<ul>
 									<li>
-										Membership API - <b>NodeJS</b>
+										Membership API - <b>NodeJS</b>:{" "}
+										<a
+											href="https://github.com/frasnym/Basic-Membership-NodeJS-API"
+											target="_blank"
+											rel="noreferrer"
+										>
+											Application URL
+										</a>
 									</li>
 									<li>
-										Web scraping - <b>NodeJS</b>
+										Web scraping - <b>NodeJS</b>:{" "}
+										<a
+											href="https://github.com/frasnym/Kurs-Scraping-NodeJS-cheerio"
+											target="_blank"
+											rel="noreferrer"
+										>
+											Application URL
+										</a>
 									</li>
 									<li>
 										Get Twitter real-time updates -{" "}
 										<b>NodeJS</b>
-									</li>
-									<li>
-										Marketplace API - <b>NodeJS</b>
-									</li>
-									<li>
-										Marketplace Admin page - <b>ReactJS</b>
-									</li>
-									<li>
-										Marketplace Customer page -{" "}
-										<b>ReactJS</b>
 									</li>
 								</ul>
 							}
