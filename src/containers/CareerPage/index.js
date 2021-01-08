@@ -17,7 +17,7 @@ export default function CareerPage() {
 						<Card
 							bgcolor="dark"
 							header="Full-stack Developer at PT. Eklanku Indonesia Cemerlang"
-							headerSubtitle="December 2017 – Now"
+							headerSubtitle="December 2017 – December 2020"
 							content={
 								<ul>
 									<li>

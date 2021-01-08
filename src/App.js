@@ -1,4 +1,4 @@
-import { Route, HashRouter } from "react-router-dom";
+import { Route, BrowserRouter } from "react-router-dom";
 
 import "./App.css";
 import "./assets/css/bootstrap.min.css";
@@ -11,14 +11,14 @@ import OtherSkillPage from "./containers/OtherSkillPage";
 
 function App() {
 	return (
-		<HashRouter basename="/">
+		<BrowserRouter basename="/">
 			<Route exact path="/" component={HomePage} />
 			<Route path="/about" component={AboutPage} />
 			<Route path="/potency" component={PotencyPage} />
 			<Route path="/career" component={CareerPage} />
 			<Route path="/education" component={EducationPage} />
 			<Route path="/others" component={OtherSkillPage} />
-		</HashRouter>
+		</BrowserRouter>
 	);
 }
 
